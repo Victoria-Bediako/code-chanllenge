@@ -1,0 +1,180 @@
+
+h1 {
+  color:black;
+   text-align: center;
+   text-decoration-line: underline;
+ }
+
+ h2 {
+  color:teal;
+ text-align: center;
+ text-decoration-line: underline;
+ }
+ h3 {
+  color:black;
+  text-align:center;
+  text-size-adjust: 10px;
+  
+
+ }
+
+
+ h4 {
+  color: red;
+  text-align: center;
+  text-decoration-line: underline;
+ }
+
+
+ #change {
+
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 16px;
+  cursor: pointer;
+  align-content: center;
+
+ }
+ 
+
+ 
+ #hide {
+  
+  padding: 10px 42px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 16px;
+  cursor: pointer;
+ }
+
+ #seek{
+  padding: 10px 42px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 16px;
+  text-decoration: none;
+  cursor: pointer;
+  
+ }
+ #jack{
+
+  padding: 10px 42px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 16px;
+  cursor: pointer;
+ }
+
+
+
+ .showall {
+
+  padding: 10px 42px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 410px;
+  cursor: pointer;
+
+ }
+
+ .reset{
+
+  padding: 10px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 12px;
+  cursor: pointer;
+
+ }
+
+
+ .apple {
+
+  padding: 10px 46px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 16px;
+  cursor: pointer;
+ 
+ }
+
+
+ .title {
+
+  padding: 10px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 16px;
+  cursor: pointer;
+ }
+
+ 
+ .redbox {
+  background-color: #DD2D4A;
+  width: 130px;
+  border: 5px solid #CBEEF3;
+  padding: 130px;
+  margin: 50px;
+  transition-property: background-color 0.5s;
+  transition-duration: 4s;
+  transition-timing-function: linear;
+  transition-delay: 0s;
+  display: inline-block;
+
+
+}
+
+
+
+.bluebox {
+  background-color: #228CDB;
+  width: 130px;
+  padding: 130px;
+  margin: 50px;
+  outline-style: dashed;
+  outline-color:#170A1C;
+  transition-property: background-color 0.5s;
+  transition-duration: 2s;
+  transition-timing-function: ease;
+  transition-delay: 0s;
+  display:inline-flex
+    
+}
+
+.bluebox:hover {
+  background-color: #F5853F;outline-color: #474935
+
+}
+.greenbox {
+ background-color: #FCEC52;
+ width: 130px;
+ border: 5px solid #3A5743;
+ padding: 130px;
+ margin: 50px;
+ transition-property: background-color 0.5s;
+ transition-duration: 4s;
+ transition-timing-function: linear;
+ transition-delay: 0s;
+display: inline-block;
+}
+
+.greenbox:hover {
+  background-color: #713E5A;border: 5px solid #D57A66
+}
+ 
